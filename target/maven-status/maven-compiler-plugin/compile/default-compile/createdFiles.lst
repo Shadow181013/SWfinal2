@@ -1,0 +1,8 @@
+com\example\swfinal\APIController.class
+com\example\swfinal\SightServiceImplement.class
+com\example\swfinal\DataInitializer.class
+com\example\swfinal\KeelungSightsCrawler.class
+com\example\swfinal\SightService.class
+com\example\swfinal\SwFinalApplication.class
+com\example\swfinal\SightRepository.class
+com\example\swfinal\Sight.class

@@ -1,0 +1,13 @@
+.card{
+    background-color: blanchedalmond;
+    margin:10px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    transition: transform 0.2s;
+    position: relative;
+    z-index: 1;
+}
+a{
+    margin-top: 20px;
+}
